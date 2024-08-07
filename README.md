@@ -16,4 +16,10 @@ This project is a social media management dashboard that allows users to upload 
 * Ui/Ux design: Figma
 * Design framework: Tailwind CSS, Material UI
 * Backend: Node.js, Express.js
-* Database: MongoDB
+* Database: MongoDB 
+
+## Important APIs
+* Instagram Graph API : https://developers.facebook.com/docs/instagram-platform/instagram-api-with-facebook-login/overview#base-url
+* Facebook Page API: https://developers.facebook.com/docs/pages-api/
+* Twitter API: https://developer.x.com/en/docs/twitter-api/tweets/manage-tweets/api-reference/post-tweets
+* 
